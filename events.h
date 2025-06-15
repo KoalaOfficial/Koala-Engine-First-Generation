@@ -1,3 +1,5 @@
+//Ten kod ma swoje źródło z repozytorium andersfylling/uci 
+
 #ifndef EVENTS_H
 #define EVENTS_H
 
