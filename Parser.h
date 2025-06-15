@@ -1,3 +1,5 @@
+//Ten kod ma swoje źródło z repozytorium andersfylling/uci 
+
 #ifndef PARSER_H
 #define PARSER_H
 
