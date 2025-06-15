@@ -1,3 +1,5 @@
+//Ten kod ma swoje źródło z repozytorium andersfylling/uci 
+
 #ifndef DEFINITIONS_H
 #define DEFINITIONS_H
 
