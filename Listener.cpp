@@ -1,3 +1,5 @@
+//Ten kod ma swoje źródło 
+
 #include "Listener.h"
 #include "events.h"
 #include "definitions.h"
