@@ -1,4 +1,4 @@
-//Ten kod ma swoje źródło 
+//Ten kod ma swoje źródło z repozytorium andersfylling/uci.
 
 #include "Listener.h"
 #include "events.h"
