@@ -969,7 +969,8 @@ int main() {
        int n = stoi(config.getOption("n"));
 
         ChessEngine engine;
-
+		
+// ten fragmentr UCI ma swoje źródło  z repozytorium andersfylling/uci. 
         // UCI Listener Setup
         uci::Listener listener;
         
@@ -1015,18 +1016,7 @@ move_time = std::stoi(args["move_time"]);
 
         // Start listening for UCI commands
         listener.setupListener();
-
-        // Main loop for the chess engine
-        string msg;
-        while (true) {
-            cin >> msg;
-            
-            // Commands are handled by the listener, so we won't handle them here
-            // But you can add custom commands if necessary
-} catch (const exception& e) {
-        cerr << "Wystąpił błąd: " << e.what() << endl;
-        return 1;
-    }
-
+// koniec fragmentu z UCI
+		
     return 0;
 }
