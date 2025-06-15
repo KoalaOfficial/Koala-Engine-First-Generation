@@ -1,3 +1,5 @@
+//Ten kod ma swoje źródło z repozytorium andersfylling/uci 
+
 #include "Response.h"
 
 namespace uci {
